@@ -13,4 +13,4 @@ A kódban végezze el a következő feladatokat:
    o	„Töröl” gomb Click eseménye esetén törölje a feliratot.  
 
 c)  
-Fejlessze tovább úgy az osztályt, hogy az írja ki, hányszor ment az autó a munkahelyre és hányszor ment haza!
+Fejlessze tovább úgy az osztályt, hogy a feliratban az is jelenjen meg, hányszor ment az autó a munkahelyre és hányszor ment haza!
