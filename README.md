@@ -11,4 +11,5 @@ A kódban végezze el a következő feladatokat:
    o	„Megy munkahelyre” gomb Click eseménye esetén jelenítse meg az autó „GoToWorkString” metódus által adott karakterláncot.  
    o	„Megy haza” gomb Click eseménye esetén jelenítse meg az autó „GoToHomeString” metódus áldal adott karakterláncot.  
    o	„Töröl” gomb Click eseménye esetén törölje a feliratot.  
-
+c)  
+Fejlessze tovább úgy az osztályt, hogy az írja ki, hányszor ment az autó a munkahelyre és hányszor ment haza!
